@@ -1,2 +1,2 @@
-# TheSmallestEnterpriseEver.
-The Smallest Enterprise Ever Labs. 
+# Tech TSEE LTD (PTY).
+TECHTSEE Labs. 
